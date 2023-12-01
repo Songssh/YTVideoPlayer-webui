@@ -34,5 +34,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![](assets/asset1.png)
+![](./asset/asset1.png)
 
+Enter the URL of the YouTube video and press the Search button.
+
+Press one of the three buttons: play video, play audio, download
+* play video button: The video will be downloaded in mp4 format and stored in the cache folder. and then will be deleted.
+* play audio button: The video will be downloaded in mp3 format and stored in the cache folder. and then will be deleted.
+* download button: The video will be saved to the location you set.
