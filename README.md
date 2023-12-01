@@ -34,5 +34,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![](./assets/asset1.png)
+![](assets/asset1.png)
 
